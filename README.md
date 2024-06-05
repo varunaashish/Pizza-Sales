@@ -19,3 +19,9 @@ The objective of the Pizza Sales Analysis is to comprehensively evaluate sales d
   - Data Visualization
   - Report/Dashboard
 
+
+- Employed SQL to analyze sales data, extracting key metrics such as Total Sales and Orders, average order value, and daily & monthly trends.
+- Implemented DAX queries to find out the Total Revenue, order, quantities sold, average orders.
+- Identified Top & Bottom Selling Pizzas across different parameters- Revenue, Orders and Quantity sold
+- Recognized Customer's behavior pattern towards the most preferred Pizza Size and Pizza Category
+
